@@ -1,0 +1,3 @@
+Just some general stuff, config files etc....
+
+contact via Mastodon: 🐘 toxision@mastodon.social
